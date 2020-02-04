@@ -8,6 +8,8 @@
 
     <EditText
         android:layout_width="match_parent"
+        android:hint="@string/app_name"
+        android:background="@color/colorPrimary"
         android:layout_height="match_parent"/>
 
     <TextView
